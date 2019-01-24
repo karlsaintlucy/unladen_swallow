@@ -7,7 +7,7 @@ with open("README.rst", "r") as fh:
 
 setup(
     name="UnladenSwallow",
-    version="0.2",
+    version="0.2.1",
     packages=['unladen_swallow'],
     install_requires=[
         "Sphinx"
