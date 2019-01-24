@@ -52,3 +52,6 @@ class AirSpeedVelocityOfAnUnladenSwallow:
 
 ## License
 This project is licensed under the [BSD License](https://opensource.org/licenses/BSD-2-Clause).
+
+## Read the Docs
+See the Sphinx documentation at [Read the Docs](https://unladen-swallow.readthedocs.io/en/latest/).
