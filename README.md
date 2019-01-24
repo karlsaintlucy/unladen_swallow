@@ -4,7 +4,7 @@ Release v1.0 by [Karl Saint Lucy](https://karlsaintlucy.com).
 ## Installation
 
 ```bash
-$ pip install unladen_swallow
+$ pip install UnladenSwallow
 ```
 
 ## Features
