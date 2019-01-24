@@ -16,5 +16,5 @@ setup(
     ),
     license="BSD",
     keywords="monty python unladen swallow airspeed velocity",
-    url="https://karlsaintlucy.com",
+    url="https://unladen-swallow.readthedocs.io/en/latest/",
 )
