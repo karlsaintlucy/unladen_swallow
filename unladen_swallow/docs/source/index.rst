@@ -33,7 +33,7 @@ It's very easy to find the airspeed velocity of an unladen swallow:
     >>> from unladen_swallow.unladen_swallow import AirSpeedVelocityOfAnUnladenSwallow
     >>> a = AirSpeedVelocityOfAnUnladenSwallow()
     <unladen_swallow.AirSpeedVelocityOfAnUnladenSwallow object at 0x123456789>
-    >>> a.what_is_the_air_speed_velocity_of_an_unladen_swallow()
+    >>> a.what_is_the_airspeed_velocity_of_an_unladen_swallow()
     'The airspeed velocity of a European swallow is 11 meters per second or 24
     miles per hour. See http://style.org/unladenswallow/ for more information.'
 
