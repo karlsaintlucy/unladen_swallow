@@ -12,6 +12,10 @@ Unladen Swallow
 
 Release v0.2 by `Karl Saint Lucy <https://karlsaintlucy.com>`_.
 
+.. image:: https://readthedocs.org/projects/unladen-swallow/badge/?version=latest
+   :target: https://unladen-swallow.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
 Installation
 ------------
 .. code:: bash
