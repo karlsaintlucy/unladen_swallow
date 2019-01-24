@@ -1,5 +1,5 @@
 # Unladen Swallow
-Release v1.0 by [Karl Saint Lucy](https://karlsaintlucy.com).
+Release v0.2 by [Karl Saint Lucy](https://karlsaintlucy.com).
 
 ## Installation
 
