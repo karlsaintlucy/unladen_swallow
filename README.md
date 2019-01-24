@@ -14,7 +14,7 @@ Returns the airspeed velocity of an unladen swallow. You have to know these sort
 It’s very easy to find the airspeed velocity of an unladen swallow:
 
 ```python
->>> from unladen_swallow import AirSpeedVelocityOfAnUnladenSwallow
+>>> from unladen_swallow.unladen_swallow import AirSpeedVelocityOfAnUnladenSwallow
 >>> a = AirSpeedVelocityOfAnUnladenSwallow()
 <unladen_swallow.AirSpeedVelocityOfAnUnladenSwallow object at 0x123456789>
 >>> a.what_is_the_air_speed_velocity_of_an_unladen_swallow()
