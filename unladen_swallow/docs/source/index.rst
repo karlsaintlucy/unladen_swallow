@@ -10,7 +10,7 @@ Unladen Swallow
    :maxdepth: 2
    :caption: Contents:
 
-Release v1.0 by `Karl Saint Lucy <https://karlsaintlucy.com>`_.
+Release v0.2 by `Karl Saint Lucy <https://karlsaintlucy.com>`_.
 
 Installation
 ------------
