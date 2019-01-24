@@ -16,7 +16,7 @@ Installation
 ------------
 .. code:: bash
 
-  $ pip install unladen_swallow
+  $ pip install UnladenSwallow
 
 Features
 --------
