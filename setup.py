@@ -2,18 +2,22 @@
 
 from setuptools import setup
 
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
 setup(
     name="UnladenSwallow",
-    version="1.0",
+    version="0.1",
     packages=['unladen_swallow'],
     install_requires=[
-        "sphinx",
+        "Sphinx"
     ],
     author="Karl Saint Lucy",
     author_email="karl@karlsaintlucy.com",
     description=(
         "This package returns the airspeed velocity of an unladen swallow."
     ),
+    long_description=long_description,
     license="BSD",
     keywords="monty python unladen swallow airspeed velocity",
     url="https://unladen-swallow.readthedocs.io/en/latest/",
